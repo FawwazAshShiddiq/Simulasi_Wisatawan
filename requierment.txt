@@ -3,4 +3,4 @@ pandas
 numpy
 math
 re
-plotly.express
+plotly
